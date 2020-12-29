@@ -24,13 +24,13 @@
   "profile": {
     "name": "typicode"
   },
-  "UserProfile2":{
+  "UserProfile":{
     "code": 0,
     "data": {
         "qiandao": false,
         "msgnum": 0,
         "noticenum": 0,
-         "introduce": "",
+        "introduce": "哈哈",
         "avatar": "https://image.xinli001.com/images/avatar.jpg",
         "nickname": "菲拉兔",
         "bitcoin": 4870,

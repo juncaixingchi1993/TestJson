@@ -4,11 +4,19 @@
       "id": 1,
       "title": "json-server",
       "author": "typicode"
+    }, {
+      "id": 2,
+      "title": "json-server2",
+      "author": "typicode"
     }
   ],
   "comments": [
     {
       "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },{
+      "id": 2,
       "body": "some comment",
       "postId": 1
     }
@@ -22,7 +30,7 @@
         "qiandao": false,
         "msgnum": 0,
         "noticenum": 0,
-        "introduce": "?哈哈?",
+        "introduce": "哈哈",
         "avatar": "https://image.xinli001.com/images/avatar.jpg",
         "nickname": "菲拉兔",
         "bitcoin": 4870,
